@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WindowsFormsApp1\GUI.csproj", "{C8DA3606-D49C-4743-AA4C-F0B8FDF4B113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiklager", "Logik\Logiklager.csproj", "{9CB44294-EDEE-4A3E-B3CF-33E7009BA1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalager", "ClassLibrary1\Datalager.csproj", "{62AFD7D7-B4FA-4675-B648-54C64EA6DFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DA3606-D49C-4743-AA4C-F0B8FDF4B113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DA3606-D49C-4743-AA4C-F0B8FDF4B113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DA3606-D49C-4743-AA4C-F0B8FDF4B113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DA3606-D49C-4743-AA4C-F0B8FDF4B113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB44294-EDEE-4A3E-B3CF-33E7009BA1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB44294-EDEE-4A3E-B3CF-33E7009BA1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB44294-EDEE-4A3E-B3CF-33E7009BA1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB44294-EDEE-4A3E-B3CF-33E7009BA1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AFD7D7-B4FA-4675-B648-54C64EA6DFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AFD7D7-B4FA-4675-B648-54C64EA6DFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AFD7D7-B4FA-4675-B648-54C64EA6DFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AFD7D7-B4FA-4675-B648-54C64EA6DFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8009A1A3-7CB6-4C2B-96AD-C8F9A94D36A6}
+	EndGlobalSection
+EndGlobal

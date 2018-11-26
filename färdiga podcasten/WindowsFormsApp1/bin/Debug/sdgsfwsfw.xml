@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Podcast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>sdgsfwsfw</Title>
+  <Path>C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\\sdgsfwsfw.xml</Path>
+  <UpdateInterval>200000</UpdateInterval>
+  <Episodes>
+    <Episode>
+      <Title>143. JonBenet Ramsey</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/jonbenet___for_sandning_d88d1c99_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38641</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>142. Peter Mangs</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/peter_mangs_b0a2d9b9_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38526</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>141. Mannen i takboxen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mannen_i_takboxen_b3a5ce11_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38486</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>140. Mordet I Norra Förlösa</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa_goran_lundblad_e31bdd1f_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38458</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>139. Polismordet I Högdalen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/polismordet_i_hogdalen_2c78e9be_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38381</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>138. Flickmördaren</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/flickmordaren_f6a21712_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38347</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>137. Kom tillbaka del 4</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/kom_tillbaka_del_4_74c69c35_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38284</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>136. Mordet På Lotta Rudholm</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa_lotta_rudholm_7e0195a7_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38191</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>135. Kom Tillbaka del 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/tillbaka_del_3_628e1ed3_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38157</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>134. Annelie</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/annelie__94e44cda_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38147</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>133. Kom Tillbaka del 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/kom_tillbaka_del_2_82318f14_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38104</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>132. Trädgårdsmordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/tradgardsmordet_3c2f38ff_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38102</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>131. Kom Tillbaka del 1</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/kom_tillbaka_del_1_c4e6f10f_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=38090</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>130. Polismorden I Malexander</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/polismorden_i_malexander_d392b2ff_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37963</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>129. Marcus</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/marcus_noren_938e0b43_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37932</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>128. Helenafallet - Cold Case</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/helenafallet_60676495_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37893</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>127. Kim Wall</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa_kim_wall_1096392d_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37847</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>126. Albert Fish</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/albert_fish_616355d2_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37779</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>125. Cajsa Jonsson</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/cajsa_jonsson_dca246b0_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=37359</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>124. Mordet På Madeleine</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa_madelene_2be4d36d_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36940</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>123. Kannibalen Ifrån Gävle</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/kannibalen_fran_gavle_5d9baf4b_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36890</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>122. Helén &amp; Jannica</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/helene_jannica_b0574838_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36833</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>121. Skotten I Vallåkra</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/skatten_i_vallakra_5084e0d8_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36794</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>120. Råbymordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/rabymordet__2347bc01_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36752</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>119. Charles Manson</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/manson_next_3bc79d67_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36692</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>118. Larmsamtalet (Special)</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/larmsamtalet_81a10c0e_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36638</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>116. Terrordådet i Stockholm</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/drottninggatan_8ae9c60d_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36533</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>BILJETTSLÄPP STHLM &amp; INFO</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/info_avsnitt_0_9da59a1d_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36526</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>115. Trippelmordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/trippelmorden_i_uddevalla_17bc047c_normal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36499</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>113. Två Fall I Ett - Special</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/marie_gerd_gosta__95b01ac3.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36362</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>112. Ulla Höglund del 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/ulla_hoglund_del_2_b99128cd.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36322</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>111. Ulla Höglund Del 1</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa_ulla_hoglund_del_1_99efe7da.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36255</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>110. Veronika Lin</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/svenska_veronika_lin_c5815901.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36208</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>109. Lasermannen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/lasermannen_svmdh_b26a290f.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36159</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>108. Ramoné - Cold Case</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/svmdh_midroll_stop_f39e8acb.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36106</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>107. Fadime</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/fadime_familjen_sahindal__83bc2fc5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36045</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>106. En Mördare Till Kavaljer</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/en_mordare_till_kavaljer__dbfb601c.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35967</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>105. Mordet På Kennedy</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/jf___kennedy_464abf0d.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35886</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>104. Malin</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/malin__4767a49b.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35878</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>103. Åmselemorden</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/amselemorden_79c12f0d.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35860</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>102. Tova</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/tova_moberg_mordet_ce7911ba.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35827</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>101. Två Fall I Ett (SPECIAL2)</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/k_pist_mordet_finnarna_c559c86d.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35734</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>100.Två Fall I Ett (SPECIAL)</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/pyromanen_hustrumordaren__8386a8f7.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35640</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>99. Linda Chen (SPECIAL)</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/linda_chen_176d82c1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35585</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>98. #Läggnerdittvapen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/_laggnerdittvapen_5bbbff9a.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35549</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>97. Breivik</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/breivik__84287aea.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35470</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>96. Josef Fritzl</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/josef_fritzl_99d6fb21.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35218</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>95. Det perfekta mordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/det_perfekta_mordet_587325ed.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35182</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>94. Linkan &amp; Peter</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/linkan___peter_fa503e49.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35130</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>93. Marinamannen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/marinamannen_ded48509.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35084</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>92. Therese Johansson Rojo</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/nordic_crime_3bc61808.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=35042</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>91. Pogo The Clown</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/pogo_the_clown_cbf0a27c.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34998</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>90. Death Wish Man</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/death_man___svmdh_bbef9325.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34961</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>89. Bastumordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/bastumordet__485f5717.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34886</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>88. Sommarstugemorden i Arboga</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/sommarstugemorden_i_arboga_2017_28a6c4e1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34875</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>87. Tonåringarna Som Mördade</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/_4_a_ringen_som_mo_rdade_6cdb7983.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34839</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>86. Polishustrun</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/polishustrun_1375b4c1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34739</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>85. Den skyldige</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/vem_a_r_mo_rdaren___e9c94cb6.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34636</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>84. Vittnet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/vittnet_088f9c41.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34575</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>83. Lena</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/svenska_mordhistorier__ea4c1ccf.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34514</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>82. Thomas Quick</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/thomas_quick_0c3f4f84.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34482</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>81. Jack The Ripper</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/jack_the_ripper_005b5de9.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34443</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>80. Dennis Nilsen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/dennis_nilsen_7f63284d.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34390</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>79. Dödens Historia Special</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/do_dens_historira_specialavsnitt_e96d51f5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34335</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>78. Vampyrmordet 1932</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/vampyrmordet_1932_627cacfd.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34266</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>77. Mary Bell</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mary_bell__752f5dea.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34174</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>76. Knutbydramat</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/knutbydramat_1_830005b5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=34078</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>75. Olof Palme</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa__olof_palme_e2af98e5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33984</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>74. Zodiac Mördaren</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/zodiac_mo_rdaren__5845b095.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33880</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>73. Diskoteksbranden</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/diskoetksbranden_i_go_teborg__9ef87000.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33793</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>72. Mordet På Bobby</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa__bobby___bortttaget_mu_a9e873ad.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33660</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>71. Johan Filip Nordlund</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/morden_a_ngaren_carl_philip_bb5cc59d.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33525</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>70. Sjukhusmorden I Malmö</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/sjukhusmorden_29a8601c.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33402</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>69. Mordet På Travis</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/jodi_arias_d1f472c1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33246</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>68. Terror I Sverige</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/terror_1a225297.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33093</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>67. Branden På Docentgatan</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/branden_pa__docentgatan__c4ce076e.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=33014</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>66. X-Team</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/smvdh_joe__cc6b9c5c.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=32869</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>65. Aileen Wuornos</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/aileen_79d5e762.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=32664</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>64. Telefonisten 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/telefonisten__6a70ce15.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=32452</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>63. Dödsdömd 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/do_dsdo_md_del_3_17eb0027.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=32194</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>62. Ted Bundy</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/ted_bundy_1eb0bb78.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=32008</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>61. Mordet på John</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/mordet_pa__john_hron__1734fe71.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=31775</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>60. Telefonisten 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/telefonisten_del_2_fc4e7728.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=31566</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>59. Dödsdömd 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/d_dsd_md_2_med_ufo_promo_4d23b3c5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=31355</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>58 Dödsdömd</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/d_dsd_md_aed4406b.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=31174</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>57. Telefonisten 1</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2017-02-01_9f9691c9_telefonisten_del_1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30972</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>56. Satanistmordet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2017-01-25_541ef433_satanistmordet_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30753</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>55. En Kvinnlig Styckmördare</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2017-01-18_a5d7b8eb_den_kvinnliga_styckaren.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30512</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>54. Mordet På Anna Lindh</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2017-01-11_2c52ca73_anna_lindh_done.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30262</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>53. Sexfällan</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2017-01-03_7631d205_mordet_p___mansur.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30115</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>52. Jigsaw</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-12-28_b57da2c6_den_verkligen_jigsaw_m__rdaren.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=30078</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>51. Catrin Da Costa</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-12-21_14540e0b_catrin_da_costa_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=29953</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>50. Summering 2016</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-12-14_6dd00ce0_specialare_2016.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=29735</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>49. Hatbrottet I Bergsjön</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-12-07_6502003e_hatbrottet_i_bergsj__n_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=29477</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>48. Vem är mördaren?</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-11-30_91ccf933_vem___r_m__rdaren_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=29194</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>47. Albin och Kajsa</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-11-23_f0f2a44d_albin___svenska_mordhistorier.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=28891</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>46. Yara</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-11-15_9e4e4ebd_yara.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=28597</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>45. Specialavsnittet, Vem Är Mördaren?</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-11-09_9c8d7253_vem___r_m__rdaren__magnus_nork_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=28327</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>44. Avrättningen I Vaxholm</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-11-02_216af965_avr__ttningen_i_vaxholm.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=27968</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>43. Tortyrmordet I Ljungby</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-10-25_16016720_mordet_i_ljungby.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=27565</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>42. Elin Krantz</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-10-19_146cfbdb__mordet_p___elind_krantz_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=27235</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>41. Massmordet i Falun</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-10-12_4c138273_massmorden_i_falun.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=26920</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>40. Hannah Bennet</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-09-28_e92da5fc_mordet_p___hanna_bennet.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=26170</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>39. Vampyrkvinnan</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-09-21_84e418f5_vampyrkvinnan.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=25736</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>38. Mordet på Jens Janzon</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-09-14_414cc5b1_mordet_p___jens_janzon.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=25306</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>37. Styckmordet på Christian Larsson</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-09-07_154e7629_mordet_p___christian_larsson.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=24914</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>36. Helle &amp; Skarakannibalen</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-08-31_58b22406_svenska_mordhistorer_kannibalen.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=24550</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>35. Mordet i Askersund</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016_08_24_bae47935_mordet_p___l_c2b91c1a.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=36312</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>34. Carolin </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-08-11_9703b703_carolin_stenvall_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=23488</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>33. Ploy </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-08-03_4aa59931_ploy.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=23167</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>32. Arbogamorden </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-07-26_ce0b89e9_arrbogamorden_2016.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=23007</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>31. Expeditionen 4 </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-07-20_3c07dcbf_expeditionen_sista_delen.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=22792</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>30. Trollhättan </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-07-14_fc945b80_morden_i_trollh__ttan.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=22591</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>29. Expeditionen 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-07-06_ead744be_expeditionen_del_3.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=22310</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>28. Lisa Holm </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-06-29_e682352f_mordet_p___lisa_holm_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=22047</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>27. Expeditionen 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-06-22_f7f541af_expeditionen_2.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=21768</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>26. Den Tomma Likkistan </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-06-15_78457fc3_den_tomma_likkistan_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=21344</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>25. Expeditionen 1</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-06-07_960df53e_expeditionen_svmdh.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=20799</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>24. Attarpsmorden</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-06-01_9806cff9_attaprsmorden.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=20506</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>23. Malin Del 2 </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-05-24_1f1f8cdd_malin___del_2_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=20070</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>22. Malin Del 1 </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-05-17_5a16412d_malin_del_1.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=19637</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>21. Tore </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-05-09_a186f47d_tore_hedin_better_vocal.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=19007</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>20. Familjen - Del 5</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-05-05_4f97b493_familjen_del_5.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=18854</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>19. Polismordet i Nyköping </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-05-05_2d3bc4a5_polismordet_i_nyk__ping_2007.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=18323</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>18. Familjen 4</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-04-20_1df5a009_familjen_del_4.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=17841</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>17. Nancy</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-04-13_c18723d3_nancy_tavsan.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=17332</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>16. Familjen 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-04-05_dee73a02_familjen___del_3.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=16910</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>15. James/Jeffrey</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-03-30_e5406861_dubbelavsnitt_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=16424</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>14. Familjen 2 </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-03-22_32aa4ecb_familjen___del2.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=16153</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>13. Zoran </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-03-16_f85a349a_zoran_13.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=15734</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>12. Familjen </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-03-09_58a5d18d_familjen.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=15199</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>11. Howard</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-03-01_a4f8ddf9_howard_unruh.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=14900</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>10. Edward </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-02-22_8ac6f639_edward_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=14658</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>9. Hans-Henrik </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-02-16_87bf522b_hans_henrik_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=14486</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>8. Fru F</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-02-09_5547ace6_fru_f.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=14317</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>7. Leif</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-02-01_0249bf0f_leif.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=14116</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>6. Kerstin</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-26_0103cdcc_kerstin.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13960</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>5. Magnus 2 </Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-23_cfb89fa1_magnus_del_2.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13921</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>4. Magnus</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-20_ce1e6824_magnus_special_del_1_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13852</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>3. Claudia</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-20_1adf5a07_claudia.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13850</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>2. Sigrid 3</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-20_964072f8_sigrid_del_3.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13849</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>1. Sigrid 1 &amp; 2</Title>
+      <Url>https://ads-e-bauerse-pods.sharp-stream.com/426/2016-01-20_77a685b1_sigrid___extramaterial__del1___2_.mp3?aw_0_1st.collectionid=426&amp;aw_0_1st.episodeid=13844</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+  </Episodes>
+  <RssUrl>https://cdn.radioplay.se/data/rss/426.xml</RssUrl>
+</Podcast>

@@ -1,0 +1,85 @@
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\Desktop\ddddd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\Logik.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\Logik.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\WindowsFormsApplication8.Feeds.resources
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\obj\Debug\GUI.csprojAssemblyReference.cache

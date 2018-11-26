@@ -1,0 +1,36 @@
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\obj\Debug\Datalager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\obj\Debug\Datalager.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\Datalager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\Datalager.csprojResolveAssemblyReference.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\obj\Debug\Datalager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Desktop\ddddd\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\obj\Debug\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\ClassLibrary1\obj\Debug\Datalager.csprojAssemblyReference.cache

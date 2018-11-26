@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Podcast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>yasnias favoriter</Title>
+  <Path>C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\WindowsFormsApp1\bin\Debug\\yasnias favoriter.xml</Path>
+  <UpdateInterval>200000</UpdateInterval>
+  <Episodes>
+    <Episode>
+      <Title>TFK.399 – Bilfärden.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK_avsnitt_399_30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.398 – Good Deeds.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.398_-_Good_Deeds30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.397 - Spellistan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.397-Spellistan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.396 - Resa.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.396-Resa30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.395 - Benzo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.395-Benzo30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.394 - Undergången.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.394-Undergangen_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.393 - Horoskop.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.393-Horoskop_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.392 - Arne.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.392-Arne30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK - Konspirationsteorier: 11 September.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/Konspirationsteorier_-_9_11.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.391 - Kristinehamn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.391-Kristinehamn30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.390 - Demonstrant.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.390-Demonstrant_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.389 - Homunculus.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.389-Homunculus_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.388 - Knocker.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.388-Knocker-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.387 - Flugan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.387-Flugan30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.386 - Värmen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.386_-_Varmen30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.Plus.51 - Konspirationsteorier.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/Plus_Konspiration_.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.385 - Influencer.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.385-Influencer-30-min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.383 – Paolo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/Sommar1-Paolo_30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.382 – Drevet.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.382-DrevetFree.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.384 – Yoga.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/Sommar2-Yoga_30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.381 – Reboot.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.381-Reboot.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.380 - Philippe.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.380-Philippe.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.379 - Treo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.379-Treo.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.378 - Kvarndammen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.378-Kvarndammen.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.377 - Stugan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.377-Stuganitune.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.376 - Joakim.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.376-Joakim.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.375 - Impregnering.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.375-Impregnering.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.374 - Lura barn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.374-Lura-Barn-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.373 - Sista Minuten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.373-Sista_Minuten.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.372 - Dement.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.372-Dement-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.371 - Jamal.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.371-Jamal.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.370 - Yeahman.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.370-Yeahman-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.369 - Festkompisar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.369-Festkompisar.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.368 - Kumla.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.368-Kumla.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.367 - Malou.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.367-Malou.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.366 - Deep Fake.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.366-Deep_Fake.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.365 - Mora.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.365-Mora.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.364 - Lakthie.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.364-Lakthie-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.363 - Rullator.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.363-Rullator.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.362 - Rymdfarkost.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.362-Rymdfarkost.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.361 - Crime.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.361-Crime.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.360 - Shaming.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.360-Shaming_G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.359 - Coprophagia.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.359-Coprophagia.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.358 - Ted.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.358-Ted_G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.357 - Elon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.357-Elon.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.356 - Underhåll.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.356-Underhall-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.355 - Naviz.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.355-Naviz.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.354 - Karma.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.354-Karma-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.353 - Boris.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.353-Boris-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.352 - En vän.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.352-En-van-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.351 - Shames.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.351-Shames-30.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.349 - Ludde.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.349-Ludde.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.348 - Kömpisen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.348-Kompisen30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.347 - Uppkoppling.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.347-Uppkoppling-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.346 - Malthie.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.346-Malthie_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>Nya appen "Tack För Kaffet" i AppStore &amp; Google Play!</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/Ny_app.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.345 - Hangjordet.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.345-Hangjordet_30.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.344 - Pojkrum.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.344-Pojkrum_30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.343 - Potions.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.343-Potions30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.342 - Folkfest.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.342-Folkfest_30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.341-Artig</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.341-Artig.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.340 - Bottenskrap.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.340-Bottenskrap30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.339 - Stockholm.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.339-Stockholm30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.338 - Svullo</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.338-Svullo.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.337 - Karin.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.337-Karin.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.336 - Grepp</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.336-Grepp.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.335 - Sambo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.335-Sambo-30_min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.334 - Startkablar</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.334-Startkablar.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.333 - Cakeman.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK-333-Cakeman-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.332 - Medina.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.332-Medina-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.331-Kittad</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.331-Kittad.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.330 - Tranny.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.330-Tranny_G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.329 - Sviten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.329-Sviten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.328 - Toppguide.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.328-Toppguide-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.327- Survive.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.327-Survive-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.326 - Spiken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.326_-_Spiken.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.325 - Buenos.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.325-Buenos-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.324 - Bullseye</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.324-Bullseye.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.323-Kapris</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.323-Kapris.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.322 - Ekorre.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.322-Ekorre-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.321 - Zorro.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.321-Zorro.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.320 - Skutan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.320-Skutan.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.319 - Plastankan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.319-Plastankan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.318 - Räkmacka.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.318-Rakmacka_G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.317 - Silikonbebis.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.317-Silikonbebis-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.316 - Ekman.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.316-Ekman-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.315 - Yngel.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.315-Yngel-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.314 - Datenight.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.314-Datenight-g.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.313 - Duvan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.313-Duvan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.312 - Rutin, disciplin och fisting.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.312-Rutin-Disciplin-Fisting-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.311 - Amffolk.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.311-Amffolk-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.310 - Board.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.310-Board-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.Mailisode.2</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.Mailisode.2.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.309 - 5 Procent.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.309-5-procent-g.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.308 - Versus.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.308-Versus-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.307 - Stek.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.307-Stek-30.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.306 - Blipp.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.306-Blipp-g.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.305 - Lille Max.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.305-Lille-Max-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.304 - Ghosta.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.304-Ghosta.30.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.303 - Julklapp.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.303-Julklapp-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.Plus.9</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFKPlus9.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.302 - Gadd.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/302-Gadd-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.301 - Placebo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.301-Placebo-30min.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.En Mugg Svart.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.En-Mugg-Svart.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.299 - Denkson.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.299-Denkson-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.298 - Touched.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.298-Touched.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.297 - Puls.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.297-Puls-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.296 - Dofter.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.296-Dofter.G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.295 - Tipsntrix.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.295-Tripsntrix-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.294 - Fackit.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.294-Fackit-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.293 - Geve.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.293-Geve-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.292 - Lila.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.292_-_Lila.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.291 - Alfahanne.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.291_-_Alfahanne.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.290 - Skevt.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.290_-_Skevt.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.289 - Prisoner.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.289_-_Prisoner.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.288 - GTKM.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.288_-_GTKM.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.287 - Generatorn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.287_-_Generatorn.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.286 - Xbert.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.286_-_Xbert.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.285 - Dremel.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.285_-_Dremel.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.284 - Cigg.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.284_-_Cigg.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.283 - Favoriter</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.283_-_Favoriter.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.282 - Linnea.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.282_-_Linnea.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.281 - Haley.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.281_-_Haley.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.280 - Knut.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.280_-_Knut.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.279 - Kälkhockey.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.279_-_Klkhockey.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.278 - Pedagogik</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.278_-_Pedagogik.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.277 - Diabetes.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.277_-_Diabetes.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.276 - Mera blod.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.276_-_Mera_blod.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.275 - Shorts.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.275_-_Shorts.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.274 - Hair.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.274_-_Hair.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.273 - Brottsplats.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.273_-_Brottsplats.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.272 - Pollen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.272_-_Pollen.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.271 - Maj.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.271_-_Maj.-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.270 - Berlin.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.270_-_Berlin-Pre.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.269 - Pubrundan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.269-Pubrundan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.268 - Snap.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.268-SNAP-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.267 - Baltikum</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.267-Baltikum-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.266 - TAY.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.266-TAY.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.265 - Hoggyhoggy.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.265-Hoggyhoggy-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.264 - Ormen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.264-Ormen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.263 - Gott intryck</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.263-Gott-intryck-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.262 - Farmor.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.262-Farmor-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.261 - SEX.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.261-SEX-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK - Inför LATMO 2016</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK_-_Infr_LATMO_2016.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.260 - 7 sekunder.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.260-7-sekunder-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.259 - One Small.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.259-One-Small-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.258 - Jim Shady.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.258-Jim-Shady-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.257 - Alkistestet.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.257-Alkistestet-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.256 - Heroni.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.256-Heroni-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.255 - Tinder.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.255-Tinder-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.254 - Tjocklad.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.254-Tjocklad-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.253 - Mr Rath.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.253-Mr-Rath-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.252 - Raggningsrepliker.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.252-Raggningsrepliker-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.251 - Sparkcykel.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.251-Sparkcykel-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.250 - Falcon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.250-Falcon-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.249 - Svimma.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.249-Svimma-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.248 - Sopor.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.248-Sopor-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.247 - Halvfull.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.247-Halvfull-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.246 - 1999.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.246-1999-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.245 - Våg.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.245-Vag-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.244 - Domän</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.244-Doman-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.243 - Naglar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.243-Naglar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.242 - Ostligan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.242-Ostligan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.241 - Chiliflakes.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.241-Chiliflakes-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.240 - Tampong.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.240-Tampong-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.239 - Nytt! Vidare!</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.239-Nytt-Vidare-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK - Sill &amp; Kubb.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.238-Sill-och-Kubb-LIVE-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.237 - iEverything.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.237-iEverything-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.236 - Radio.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.236-Radio.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.235 - Vader.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.235-Vader-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.234 - Sawadee</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.234-Sawadee-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.233 - Resedagboken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.233-Resedagboken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.232 - Svino Juice.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.232-Svino-Juice-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.231 - Semestertid.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.231-Semestertid-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.230 - Trollsalva.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.230-Trollsalva-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.229 - Pixxxar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.229-Pixxxar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.228 - Tuttaluere.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.228-Tuttaluere-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.227 - Stjertz.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.227-Stjertz-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.226 - Drrr.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.226-Drrr-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.225 - Mörtjävel.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.225-Mortjavel-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.224 - Fuldagar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.224-Fuldagar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.223 - Granbarn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.223-Granbarn-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.222 - Ulf.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.222-Ulf-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.221 - Toavakt</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.221-Toavakt-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.220 - Dhalsim.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.220-Dhalsim-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.219 - Jycken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.219-Jycken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.218 - Skogen</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.218-Skogen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.217 - Funktionsvarierad.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.217-Funktionsvarierad-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.216 - Blades.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.216-Blades-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.215 - Testo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.215-Testo-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.214 - Scheren.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.214-Scheren-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.213 - Panflöjt.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.213-Panflojt-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.212 - Conehead.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.212-Conehead-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.211 - Pongo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.211-Pongo-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.210 - Kevin.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.210-Kevin-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.209 - Two chains.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.209-Two-chains-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.208 - Tattarmat.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.208-Tattarmat-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.207 - Dengue.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.207-Dengue-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.206 - Barbro.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.206-Barbro-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.205 - Limpsaxa.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.205-Limpsaxa-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.204 - Ljusbåge.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.204-Ljusbagar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.203 - Carpe Diem.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.203-Carpe_Diem-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.202 - Niekommanie.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.202-Niekommanie-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.201 - Alkoholistresan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.201-Alkoholistresan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.200 - Jul i Göteborg.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.200-Jul-i-Gteborg-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.199 - Brottare.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.199-Brottare-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.198 - Det var ju kul.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.198-Det-Var-ju-kul-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.197 - Snusring.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.197-Snusring-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.196 - Bryta Internet.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.196-Bryta-Internet-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.195 - Emojs.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.195-Emojs.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.194 - Matilda.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.194-Matilda-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.193 - Tonic.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.193-Tonic-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.192 - Lysande.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.192-Lysande-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.191 - Marten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.191-Marten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.190 - Nangalia.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.190-Nangalia-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.189 - Smycket.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.189-Smycket-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.188 - Gymmy.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.188-Gymmy-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.187 - Wasa.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.187-Wasa-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.186 - Kantisar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.186-Kantisar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.185 - Old-T.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.185-OldT-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.184 - Regn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.184-Regn-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.183 - Drinkluder.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.183-Drinkluder-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.182 - Evig.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.182-Evig-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.181 - Listan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.181-Listan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.180 - Historia.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.180-Historia-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.179 - Tajan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.179-Tajan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.178 - Prins Columbus.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.178-Prins-Columbus-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.177 - Simon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.177-Simon-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.176 - Kompisar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.176-Kompisar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.175 - Silikon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.175-Silikon-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.174 - Pruta.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.174-Pruta.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.173 - Ursprung.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.173-Ursprung-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.172 - Fantomen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.172-Fantomen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.171 - Didrik.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.171-Didrik-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.170 - Revir.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.170-Revir-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.169 - Downiesko.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.169-Downiesko-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.168 - Rockboken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.168-Rockboken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.167 - Bastards.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.167-Bastards-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.166 - Jobbit.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.166-Jobbit-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.165 - Yachtjakt.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.165-Yachtjakt-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.164 – Krysspop.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.164-Krysspop-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.163 – Poppis.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.163-Poppis-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.162 – Jorge.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.162-Jorge-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.161 – Gymtanten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.161-Gymtanten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.160 – Regain.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.160-Regain-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.159 – Parterr.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.159-Parterr-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.158 – Viral.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.158-Viral-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.157 – Smutsig.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK157-Smutsig.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.156 – Tortyr.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.156-Tortyr-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.155 – Cotard.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.155-Cotard-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.154 – Grannar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.154-Grannar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.153 – Mord.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.153-Mord-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.152 – Titus.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.152-Titus-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.151 – Spanjorskan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.151-Spanjorskan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.150 – Julstugan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.150-Julstugan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.149 – Barndjur.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.149-Barndjur-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.148 – Broddar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.148-Broddar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.147 – Baji.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.147-Baji-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.146 – El Maco.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.146-El-Maco-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.145 – Tvillingar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.145-Tvillingar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.144 – Dansen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.144-Dansen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.143 – Tysken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.143-Tysken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.142 – Lars.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.142-Lars-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.141 – Africa.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.141-Africa-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.140 – Johanix.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.140-Johanix-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.139 – Chicken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.139-Chicken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.138 – Usch.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.138-Usch-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.137 – Morgondoft.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.137-Morgondoft-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.136 – Prilla.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.136-Prilla-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.135 – Inspiration.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.135-Inspiration-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.134 – Mad Mike.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.134-Mad-Mike-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.133 – Djurambulansen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.133-Djurambulansen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.132 – Roys Roys.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.132-Roys-Roys-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.131 – Rakblad.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.131-Rakblad-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.130 – Välbärgad.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.130-Valbargad-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.129 – Skuff.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.129-Skuff-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.128 – Kvartsamtal.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.128-Kvartsamtal-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.127 – Hybris.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.127-Hybris-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.126 – Blind.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.126-Blind-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.125 – Revolver.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.125-Revolver-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.124 – Tre Ränder.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.124-Tre-rander-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.123 – Busiga Jim.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.123-Busiga-Jim-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.122 – Vin och vind.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.122-Vin-och-vind-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.121 – Damen i trosor.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.121-Damen-i-trosor-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.120 – Postflickan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.120-Postflickan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.119 – Ofrivilligt Stånd.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.119-Ofrivilligt-Stand-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.118 – The Hoff.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.118-The-Hoff-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.117 – Dramaten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.117-Dramaten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.116 – Clownfan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.116-Clownfan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.115 – Flash Gordon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.115-Flash-Gordon-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.114 – Ogooglebar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.114-Ogooglebar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.113 – Bedrägeri.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.113-Bedrageri-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.112 – Hollywood.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.112-Hollywood-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.111 – Blommor och bin.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.111-Blommor-och-bin-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.110 – Smokey.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.110-Smokey-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.109 – Jimmy Lukt.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.109-Jimmy-Lukt-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.108 – Foxes.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.108-Foxes-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.107 – Reptilfolk.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.107-Reptilfolk-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.106 – Louie Gananza.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.106-Louie-Gananza-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.105 – Twerkaren.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.105-Twerkaren-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.104 – Barnmammor.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.104-Barnmammor-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.103 – El Jefe.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.103-El-Jefe-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.102 – Kvartspizzan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.102-Kvartspizzan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.101 – Bye.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.101-Bye-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.100 – Etthundra.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.100-Etthundra-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.99 – Koskiss.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.99-Koskiss-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.98 – Kukvan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.98-Kukvan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.97 – Luffare.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.97-Luffare-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.96 – Porrparodi.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.96-Porrparodi-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.95 – Kristoffer Appelquist.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.95-Kristoffer-Appelquist-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.94 – Tamagotchi.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.94-Tamagotchi-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.93 – Fördomar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.93-Fordomar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.92 – Skamdusch.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.92-Skamdusch-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.91 – Slaskhinken.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.91-Slaskhinken-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.90 – Äpplon.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.90-Applon-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.89 – Paraplymannen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.89-Paraplymannen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.88 – Jazzpunk.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.88-Jazzpunk-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.87 – Hockeyfrilla.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.87-Hockeyfrilla-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.86 – Fiskedamm.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.86-Fiskedamm-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.85 – Pisslistan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.85-Pisslistan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.84 – Landminor och AIDS.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.84-Landminor-och-AIDS-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.83 – Alkismode.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.83-Alkismode-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.82 – Truman.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.82-Truman-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.81 – Dubbelsten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.81-Dubbelsten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.80 – Yran.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.80-Yran-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.79 – Batmanmannen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.79-Batmanmannen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.78 – Flugornas Herrar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.78-Flugornas-Herrar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.77 – Madonna.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.77-Madonna-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.76 – Utedass.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.76-Utedass-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.75 – Cuanto Costa.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.75-Cuanto-Costa-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.74 – LKPG.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.74-LKPG-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.73 – Studenten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.73-Studenten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.72 – Sju Mille.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.72-Sju-Mille-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.71 – Euforia.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.71-Euforia-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.70 – Kioskmongot.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.70-Kioskmongot-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.69 – Defibrillator.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.69-Defrbrillator-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.68 – Biljakten.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.68-Biljakten-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.67 – Glass.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.67-Glass-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.66 – Slottsskogensnubbar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.66-Slottsskogensnubbar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.65 – Titanic.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.65-Titanic-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.64 – Existenz.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.64-Existenz-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.63 – April april.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.63-April-april-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.62 – Skatteverket.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.62-Skatteverket-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.61 – Buskoll.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.61-Buskoll-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.60 – Unna sig.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.60-Unna-sig-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.59 – Sidenkrok.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.59-Sidenkrok-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.58 – Doktorn.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.58-Doktorn-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.57 – Estelle.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.57-Estelle-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.56 – Whitneygone.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.56-Whitneygone-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.55 – Filip Hammar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.55-Filip-Hammar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.54 – Lyran.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.54-Lyran-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.53 – Thaiboy.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.53-Thaiboy.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.52 – Dricks.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.52-Dricks-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.51 – Chrille.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.51-Chrille-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.50 – Himalaya.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.50-Himalaya-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.49 – 2012.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.49-2012-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.48 – Juletid.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.48-Juletid-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.47 – Kokosbussen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.47-Kokosbussen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.46 – Pirayan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.46-Pirayan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.45 – KnullKent.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.45-Knullkent-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.44 – Sopdykaren.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.44-Sopdykaren-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.43 – Mustaschkvinnan.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.43-Mustaschkvinnan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.42 – Tejbz.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.42-Tejbz-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.41 – Afterwork.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.41-Afterwork-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.40 – Tassimo.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.40-Tassimo-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.39 – Vintertid.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.39-Vintertid-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.38 – Kattjuven.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.38-Kattjuven-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.37 – Colaslem.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.37-Colaslem-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.36 – Snorungar Live.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.36-Snorungar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.35 – Steve.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.35-Steve-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.34 – Tanden.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.34-Tanden-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.33 – Kinderegg.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.33-Kinderagg-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.32 – Golvkissare.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.32-Golvkissare-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.31 – Akira Corassani.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.31-Akira-Corassani-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.30 – Magnus Betnér.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.30-Magnus-Betner-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.29 – Abstrakt.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.29-Abstrakt-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.28 – WengWeng.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.28-Wengweng-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.27 – Handen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.27-Handen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.26 – Sommarpojkar.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.26-Sommarpojkar-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.25 – Fredrik Wikingsson.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.25-Fredrik-Wikingsson-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.24 – Öl.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.24-Ol-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.23.1 – Woolke uppdatering.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.S02E4.5-Woolke-uppdatering.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.23 – Mördare &amp; Mytomaner.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.23-Mordare-och-Mytomaner-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.22 – ZLATAN.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.22-Zlatan-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+    <Episode>
+      <Title>TFK.21 – Skärgårdsidyllen.</Title>
+      <Url>http://traffic.libsyn.com/tackforkaffet/TFK.21-Skargardsidyllen-G.mp3?dest-id=192726</Url>
+      <IsPlayed>false</IsPlayed>
+    </Episode>
+  </Episodes>
+  <RssUrl>http://tackforkaffet.libsyn.com/rss</RssUrl>
+</Podcast>

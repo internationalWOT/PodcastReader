@@ -1,0 +1,45 @@
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\bin\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\bin\Debug\Logik.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\obj\Debug\Logiklager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\obj\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WOT-master\WindowsFormsApp1\Logik\obj\Debug\Logik.pdb
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\Logik\obj\Debug\Logiklager.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\Logik\obj\Debug\Logik.dll
+C:\Users\Susanne\Desktop\c# projektet\WindowsFormsApp1\Logik\obj\Debug\Logik.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logiklager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logik.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\bin\Debug\Logik.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\bin\Debug\Logik.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\source\repos\WindowsFormsApp1 - kopia\Logik\bin\Debug\ClassLibrary1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\bin\Debug\Logik.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\bin\Debug\Logik.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\bin\Debug\ClassLibrary1.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\bin\Debug\ClassLibrary1.pdb
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logiklager.csprojResolveAssemblyReference.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logik.dll
+C:\Users\jnordin\OneDrive - Nethouse Sverige AB\ORU-CSharp\Projekt\Grupp 40\WindowsFormsApp1 - kopia\Logik\obj\Debug\Logik.pdb
+C:\Users\Oscar\Desktop\ddddd\Logik\bin\Debug\Logik.dll
+C:\Users\Oscar\Desktop\ddddd\Logik\bin\Debug\Logik.pdb
+C:\Users\Oscar\Desktop\ddddd\Logik\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Desktop\ddddd\Logik\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Desktop\ddddd\Logik\obj\Debug\Logiklager.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\ddddd\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\ddddd\Logik\obj\Debug\Logik.dll
+C:\Users\Oscar\Desktop\ddddd\Logik\obj\Debug\Logik.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\bin\Debug\Logik.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\bin\Debug\Logik.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\bin\Debug\ClassLibrary1.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\obj\Debug\Logiklager.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\obj\Debug\Logik.dll
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\obj\Debug\Logik.pdb
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\obj\Debug\Logiklager.csproj.CopyComplete
+C:\Users\Oscar\Documents\Programmeringsterminen\Delkurs 2 C#\färdiga podcasten - Oscar Nilsson\Logik\obj\Debug\Logiklager.csprojAssemblyReference.cache
